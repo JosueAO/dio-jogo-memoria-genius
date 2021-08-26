@@ -1,4 +1,5 @@
-Em andamento...
+### Nesse projeto, foi desenvolvido o clássico jogo Gênesis utilizando apenas HTML, CSS e Javascript básico com pequenos delhalhes intermediários.
+### A facilidade do CSS Grid é mostrada, assim como manipulação de Array e Arrow Functions.
 
 ### Recursos utilizados:
 
@@ -6,4 +7,4 @@ Em andamento...
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-## 🚀 Let's code! 🚀
+## 🚀 Pra cima. AVANTE! 🚀
