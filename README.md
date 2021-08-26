@@ -1,4 +1,4 @@
-### Nesse projeto, foi desenvolvido o clássico jogo Gênesis utilizando apenas HTML, CSS e Javascript básico com pequenos delhalhes intermediários.
+### Nesse projeto, foi desenvolvido o clássico jogo Genius utilizando apenas HTML, CSS e Javascript básico com pequenos delhalhes intermediários.
 ### A facilidade do CSS Grid é mostrada, assim como manipulação de Array e Arrow Functions.
 
 ### Recursos utilizados:
